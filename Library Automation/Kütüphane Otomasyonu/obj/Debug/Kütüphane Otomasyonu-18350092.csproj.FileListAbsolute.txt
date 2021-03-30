@@ -1,0 +1,18 @@
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\bin\Debug\Kütüphane Otomasyonu-18350092.exe.config
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\bin\Debug\Kütüphane Otomasyonu-18350092.exe
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\bin\Debug\Kütüphane Otomasyonu-18350092.pdb
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\obj\Debug\Kütüphane Otomasyonu-18350092.csprojAssemblyReference.cache
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\obj\Debug\Kütüphane_Otomasyonu_18350092.Anasayfa.resources
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\obj\Debug\Kütüphane_Otomasyonu_18350092.Properties.Resources.resources
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\obj\Debug\Kütüphane_Otomasyonu_18350092.UyeEkleForm.resources
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\obj\Debug\Kütüphane Otomasyonu-18350092.csproj.GenerateResource.cache
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\obj\Debug\Kütüphane Otomasyonu-18350092.exe
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\obj\Debug\Kütüphane Otomasyonu-18350092.pdb
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\obj\Debug\Kütüphane_Otomasyonu_18350092.UyeListeleme.resources
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\obj\Debug\Kütüphane_Otomasyonu_18350092.KitapEkleForm.resources
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\obj\Debug\Kütüphane_Otomasyonu_18350092.EmanetKitapVerfrm.resources
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\obj\Debug\Kütüphane_Otomasyonu_18350092.KitapListeleForm.resources
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\obj\Debug\Kütüphane_Otomasyonu_18350092.EmanetKitapListelefrm.resources
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\obj\Debug\Kütüphane_Otomasyonu_18350092.EmanetKitapİadefrm.resources
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\obj\Debug\Kütüphane_Otomasyonu_18350092.Grafikfrm.resources
+C:\Users\ziyadoygun\source\repos\Kütüphane Otomasyonu-18350092\Kütüphane Otomasyonu-18350092\obj\Debug\Kütüphane_Otomasyonu_18350092.Sıralamafrm.resources
